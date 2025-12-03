@@ -1,9 +1,9 @@
 Roulette Bot By Shuruhatik#2443
 ====
-- انضم في اللعبة
-- ستبدأ الجولة الأولى وسيتم تدوير العجلة واختيار لاعب عشوائي
-- إذا كنت اللاعب المختار ، فستختار لاعبًا من اختيارك ليتم طرده من اللعبة
-- يُطرد اللاعب وتبدأ جولة جديدة ، عندما يُطرد جميع اللاعبين ويتبقى لاعبان فقط ، ستدور العجلة ويكون اللاعب المختار هو الفائز باللعبة
+- Join the game
+- The first round will start and the wheel will be spun and a random player will be selected
+- If you are the selected player, you will choose a player of your choice to be eliminated from the game
+- The player is eliminated and a new round begins. When all players are eliminated and only two players remain, the wheel will spin and the selected player will be the winner of the game
 
 <div align="center">
     <p>
@@ -11,19 +11,19 @@ Roulette Bot By Shuruhatik#2443
 	</p>
 </div>
 
-## Github رابط المشروع علي
-> https://github.com/Shuruhatik/roulette-bot
+## Github Project Link
+> https://github.com/devcarron/roulette-bot.git
 
-## مثال على صورة الروليت المتحركة
+## Example of animated roulette image
 > https://imgur.com/uL65Qm5
 
-## الرعاة 
-- تحب ما أفعل؟ أرسل لي بعض [القهوة](https://buymeacoff.ee/shuruhatik) !?  ☕
+## Sponsors 
+- Do you like what I do? Send me some [coffee](https://buymeacoff.ee/shuruhatik) !?  ☕
 
-## إذا كان لديك مشكلة أو لديك اقتراح
-- تواصل معي: [Twitter](https://x.com/blacksky_jose) | [Telegram](https://t.me/blacksky_jose) | [Discord](https://discord.gg/blacksky_jose)
+## If you have a problem or have a suggestion
+- Contact me: [Twitter](https://x.com/blacksky_jose) | [Telegram](https://t.me/blacksky_jose) | [Discord](https://discord.gg/blacksky_jose)
 
 
 
 ## License
-Refer to the [LICENSE](https://github.com/Shuruhatik/roulette-bot/blob/main/LICENSE) file.
+Refer to the [LICENSE](https://github.com/devcarron/roulette-bot/blob/main/LICENSE) file.
