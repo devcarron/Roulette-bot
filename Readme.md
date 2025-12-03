@@ -21,8 +21,7 @@ Roulette Bot By Shuruhatik#2443
 - تحب ما أفعل؟ أرسل لي بعض [القهوة](https://buymeacoff.ee/shuruhatik) !?  ☕
 
 ## إذا كان لديك مشكلة أو لديك اقتراح
-- تواصل معي Discord: [`Shuruhatik#2443`](https://github.com/shuruhatik)
-- [Github](https://github.com/shuruhatik) | [Youtube](https://www.youtube.com/@shuruhatik) | [My Website](https://www.shuruhatik.com/)
+- تواصل معي: [Twitter](https://x.com/blacksky_jose) | [Telegram](https://t.me/blacksky_jose) | [Discord](https://discord.gg/blacksky_jose)
 
 
 
