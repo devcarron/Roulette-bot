@@ -21,7 +21,7 @@ Roulette Bot By Shuruhatik#2443
 - Do you like what I do? Send me some [coffee](https://buymeacoff.ee/shuruhatik) !?  ☕
 
 ## If you have a problem or have a suggestion
-- Contact me: [Twitter](https://x.com/blacksky_jose) | [Telegram](https://t.me/blacksky_jose) | [Discord](https://discord.gg/blacksky_jose)
+- Contact me: [Twitter](https://x.com/gamedevcarron) | [Telegram](https://t.me/gamedevcarron) | [Discord](https://discord.gg/gamedevcarron)
 
 
 
